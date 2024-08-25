@@ -1,3 +1,0 @@
-mkdocs==1.6.0
-mkdocs-material==9.5.33
-mkdocs-pdf-export-plugin==0.5.10
