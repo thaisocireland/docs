@@ -71,5 +71,3 @@
 - แผนที่การเดินทางในดับลิน
   จาก [Transport for Ireland](https://www.transportforireland.ie/plan-a-journey/network-maps/)
   (ดูสายรถเมล์และการโดยสารอื่นๆ ได้ที่เว็บไซต์)
-
-[กลับไปหน้าหลัก](./README.md)
