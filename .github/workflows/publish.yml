@@ -25,4 +25,4 @@ jobs:
         run: git checkout gh-pages && git pull && git checkout main
       - name: Build docs and set aliases
         working-directory: docs
-        run: mkdocs deploy --branch gh-pages --push
+        run: mkdocs gh-deploy --clean --verbose --remote-branch gh-pages
