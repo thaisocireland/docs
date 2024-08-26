@@ -1,32 +1,24 @@
 # Thai Students in Ireland - Study in Ireland information
 
-The <https://github.com/thaisocireland/docs> repository on GitHub
-hosts the website available at
-<https://thaisocireland.github.io/docs>.
+Thai-language information on Irish higher education for prospective students.
 
-The website offers Thai-language information on Irish higher education for
-prospective students.
+## Disclaimer
 
-In the Git repository:
+This website is independently run by Thai students and alumni of Irish
+schools and universities.
+We provide information based on our own experiences and research,
+while striving to link to official government and educational sources.
 
-- `main` branch hosts source files, meant to be input files for
-  [MkDocs](https://www.mkdocs.org/)
-- `gh-pages` branch hosts generated HTML files for the website
+Our content is not endorsed or supported by any government or educational
+institution.
 
-New content and amendments are always welcome.
-Please open
-[an issue asking for changes](https://github.com/thaisocireland/docs/issues)
-or
-[a pull request proposing changes](https://github.com/thaisocireland/docs/pulls).
+The information provided in this repository and on the associated website is
+intended for general informational purposes only and does not constitute legal,
+health, or educational advice.
+It is not a substitute for professional advice from a qualified attorney,
+healthcare provider, or educational counselor.
 
-You can also edit a file in [`docs/`](https://github.com/thaisocireland/docs/tree/main/docs)
-directory on the Git repository directly
-(which will effectively open a pull request to change that file).
-The content is in
-[Markdown format](https://www.markdownguide.org/basic-syntax/).
-
-If new files are added, they should also be added to the `nav` section in
-`mkdocs.yml` if you want them to appear in the website navigation bar.
+We do not provide personalized consultations or counseling services.
 
 ## Copyright
 
@@ -48,23 +40,32 @@ original source (<https://github.com/thaisocireland/docs>).
 By contributing to this repository, you agree to dedicate your contribution to
 the public domain under the same deed.
 
-## Disclaimer
+## Development
 
-This website is independently run by Thai students and alumni of Irish
-schools and universities.
-We provide information based on our own experiences and research,
-while striving to link to official government and educational sources.
+The <https://github.com/thaisocireland/docs> repository on GitHub
+hosts the website available at
+<https://thaisocireland.github.io/docs>.
 
-Our content is not endorsed or supported by any government or educational
-institution.
+In the Git repository:
 
-The information provided in this repository and on the associated website is
-intended for general informational purposes only and does not constitute legal,
-health, or educational advice.
-It is not a substitute for professional advice from a qualified attorney,
-healthcare provider, or educational counselor.
+- `main` branch hosts source files, meant to be input files for
+  [MkDocs](https://www.mkdocs.org/)
+- `gh-pages` branch hosts generated HTML files for the website
 
-We do not provide personalized consultations or counseling services.
+New content and amendments are always welcome.
+Please open
+[an issue asking for changes](https://github.com/thaisocireland/docs/issues)
+or
+[a pull request proposing changes](https://github.com/thaisocireland/docs/pulls).
+
+You can also edit a file in [`docs/`](https://github.com/thaisocireland/docs/tree/main/docs)
+directory on the Git repository directly
+(which will effectively open a pull request to change that file).
+The content is in
+[Markdown format](https://www.markdownguide.org/basic-syntax/).
+
+If new files are added, they should also be added to the `nav` section in
+`mkdocs.yml` if you want them to appear in the website navigation bar.
 
 ## Contact us
 
