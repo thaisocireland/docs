@@ -3,10 +3,13 @@ site_description: ข้อมูลการศึกษาต่อในไ�
 site_author: Thai Students in Ireland and its Contributors.
 site_url: https://thaisocireland.github.io/docs/
 repo_url: https://github.com/thaisocireland/docs/
-edit_uri: blob/main/docs/
+edit_uri: edit/main/docs/
 copyright: All content on this website has been <a href="https://creativecommons.org/publicdomain/zero/1.0/ ">marked as dedicated to the public domain.</a> You are free to copy, modify, and redistribute it without attribution. While attribution is not required, we encourage you to link back to the original source.
 use_directory_urls: true
-theme: material
+theme:
+  name: material
+  features:
+    - content.action.edit
 plugins:
 - search
 - pdf-export:
