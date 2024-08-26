@@ -27,7 +27,4 @@ jobs:
         run: git checkout gh-pages && git pull && git checkout main
       - name: Build docs and set aliases
         working-directory: docs
-        run: |
-          rm docs/about.md
-          cp README.md docs/about.md
-          mkdocs gh-deploy --clean --verbose --remote-branch gh-pages
+        run: mkdocs gh-deploy --clean --verbose --remote-branch gh-pages

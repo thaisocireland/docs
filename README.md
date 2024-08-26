@@ -19,7 +19,7 @@ Please open
 or
 [a pull request proposing changes](https://github.com/thaisocireland/docs/pulls).
 
-You can also edit a file in [`docs/`](./docs/) directory
+You can also edit a file in `docs/` directory
 on the Git repository directly
 (which will effectively open a pull request to change that file).
 The content is in
