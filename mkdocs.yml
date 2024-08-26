@@ -1,5 +1,5 @@
 site_name: Thai Students in Ireland
-site_description: Stuff
+site_description: ข้อมูลการศึกษาต่อในไอร์แลนด์ ข้อมูลการเดินทาง การเข้าเมือง ที่พัก การทำใบอนุญาตพำนัก ชุมชนนักเรียนไทย
 site_author: Thai Students in Ireland and its Contributors.
 site_url: https://thaisocireland.github.io/docs/
 repo_url: https://github.com/thaisocireland/docs/
@@ -31,6 +31,7 @@ validation:
     unrecognized_links: warn
 nav:
 - "หน้าแรก": index.md
-- "สุขภาพ": health.md
-- "ดับลิน": dublin.md
+- accommodation.md
+- health.md
+- dublin.md
 - "About": about.md

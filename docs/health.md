@@ -57,7 +57,7 @@
   ทั้งแบบกินและแบบทา
   [ต้องใช้ใบสั่งยา](https://www.hpra.ie/homepage/medicines/medicines-information/find-a-medicine/results/item?pano=PA2256/001/005&t=Difene%201%%20w/w%20Gel)
 - ยาคุมกำเนิด ต้องใช้ใบสั่งยาเช่นกัน
-  - ยกเว้นยาคุมกำเนิดฉุกเฉิน ที่ซื้อ over-the-counter ได้ (ดูเพิ่มเติมเกี่ยวกับ[สุขภาวะทางเพศ](#สุขภาวะทางเพศและอนามัยการเจริญพันธุ์))
+  - ยกเว้นยาคุมกำเนิดฉุกเฉิน ที่ซื้อ over-the-counter ได้ (ดูเพิ่มเติมเกี่ยวกับ[สุขภาวะทางเพศ](#sexual-health))
 
 ใบสั่งยาจากประเทศในกลุ่ม EU/EEA/UK สามารถใช้ในไอร์แลนด์ได้
 [ถ้ามีข้อมูลครบตามที่กำหนด](https://www.citizensinformation.ie/en/health/drugs-and-medicines/cross-border-prescriptions/)
@@ -100,20 +100,20 @@ Find a medicine <https://www.hpra.ie>
 
 ร้านขายยาในเวลากลางคืน อย่างในประเทศไทยแทบจะไม่มีเลย
 
-## สุขภาวะทางเพศและอนามัยการเจริญพันธุ์
+## สุขภาวะทางเพศและอนามัยการเจริญพันธุ์ <a name="sexual-health"></a>
 
 ทางการไอร์แลนด์ให้ความสำคัญกับ sexual health และ reproductive health อย่างจริงจัง
 
-HSE จัดทำเว็บไซต์ข้อมูลเฉพาะทางสำหรับสุขภาพแต่ละประเด็นดังนี้
+HSE จัดทำเว็บไซต์ข้อมูลเฉพาะทางสำหรับสุขภาวะทางเพศต่ละประเด็นดังนี้
 
 - [sexualwellbeing.ie](https://www.sexualwellbeing.ie/) โดย HSE Sexual Health and Crisis Pregnancy Programme
 - [man2man.ie](https://man2man.ie/) โดย Gay Health Network ร่วมกับ HSE
 
 ผู้หญิงอายุ 25-65 ปี ทุกคนที่อยู่ในไอร์แลนด์ สามารถเข้าตรวจคัดกรองมะเร็งปากมดลูกได้ฟรี
 โดยไม่คำนึงถึงสถานะการเข้าเมืองหรือสถานะการพำนัก
-จองคิวได้ที่ <https://www2.hse.ie/conditions/cervical-screening/>
+([จองคิวที่เว็บไซต์ CervicalCheck ของ HSE](https://www2.hse.ie/conditions/cervical-screening/))
 
-ผู้หญิงอายุ 17-35 ปี สามารถรับยาคุมกำหนดได้ฟรีจาก GP
+ผู้หญิงอายุ 17-35 ปี สามารถรับยาคุมกำเนิดได้ฟรีจาก GP
 
 ผู้หญิงทุกคนที่มี medical card สามารถรับยาคุมกำเนิดและยาคุมกำเนิดฉุกเฉินได้ฟรี
 ([ดูเกณฑ์](https://www.citizensinformation.ie/en/health/health-services/reproductive_health/contraception/))

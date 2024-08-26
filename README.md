@@ -1,4 +1,4 @@
-# Study in Ireland information
+# Thai Students in Ireland - Study in Ireland information
 
 The <https://github.com/thaisocireland/docs> repository on GitHub
 hosts the website available at
