@@ -34,7 +34,13 @@ validation:
     unrecognized_links: warn
 nav:
 - "หน้าแรก": index.md
-- accommodation.md
+- study.md
+- immigration.md
 - health.md
+- accommodation.md
+- finance.md
+- shopping.md
+- transport.md
+- community.md
 - dublin.md
 - "About": about.md
