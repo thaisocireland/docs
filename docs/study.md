@@ -7,14 +7,13 @@
 - สำหรับการเรียนในระดับมหาวิทยาลัย การจะขอใบอนุญาตพำนักได้
   จะต้องเลือกหลักสูตรจาก[รายการ Interim List of Eligible Programmes (ILEP)](https://www.irishimmigration.ie/coming-to-study-in-ireland/what-are-my-study-options/a-third-level-course-or-a-language-course/)
   เท่านั้น
-
 - สำหรับการเรียนในโรงเรียนภาษาอังกฤษ การจะขอใบอนุญาตพำนักได้
   โรงเรียนภาษาอังกฤษจะต้องได้รับรองจาก
   [Accreditation and Co-ordination of English Language Services (ACELS)](https://www.acels.ie)
-  - ปี 2024 เป็นช่วงเปลี่ยนผ่านไปสู่ระบบการรับรองคุณภาพแบบใหม่ที่ชื่อว่า
-    [International Education Mark (IEM)](https://www.qqi.ie/what-we-do/quality-assurance-of-education-and-training/what-is-the-international-education-mark)
-    หลังจากปีนี้ โรงเรียนภาษาอังกฤษที่จะรับนักเรียนจากนอกเขตเศรษฐกิจยุโรป (เช่นจากประเทศไทย)
-    จะต้องมีตรา IEM
+    - ปี 2024 เป็นช่วงเปลี่ยนผ่านไปสู่ระบบการรับรองคุณภาพแบบใหม่ที่ชื่อว่า
+      [International Education Mark (IEM)](https://www.qqi.ie/what-we-do/quality-assurance-of-education-and-training/what-is-the-international-education-mark)
+      หลังจากปีนี้ โรงเรียนภาษาอังกฤษที่จะรับนักเรียนจากนอกเขตเศรษฐกิจยุโรป (เช่นจากประเทศไทย)
+      จะต้องมีตรา IEM
 
 ## NFQ
 
@@ -25,35 +24,33 @@
 - ระบบการศึกษาในไอร์แลนด์ทั้งหมด ทั้งสายสามัญและสายวิชาชีพ จะอยู่ภายใต้กรอบ
   [National Framework of Qualifications](https://www.qqi.ie/what-we-do/the-qualifications-system/national-framework-of-qualifications)
   ซึ่งมี 10 ระดับ
-  - ในรายละเอียดทุกหลักสูตรจะมีบอกว่าหลักสูตรนี้ NFQ Level อะไร
-  - การศึกษาที่เรียกว่า "Higher Education" หรืออุดมศึกษาในไอร์แลนด์ จะเริ่มตั้งแต่ระดับ 6
-  - ระดับ 6 - **Advanced Certificate / Higher Certificate** เทียบเท่า ประกาศนียบัตรชั้นสูง (ปวส.) ของไทย
-  - ระดับ 7 - **Ordinary Bachelor Degree** (โดยทั่วไปเรียน 3 ปี) เทียบเท่า ปริญญาตรีของไทย
-  - ระดับ 8 - **Higher Diploma / Honour Bachelor Degree** (โดยทั่วไปเรียน 4 ปี) เทียบเท่า ปริญญาตรีของไทย
-  - ระดับ 9 - **Post-Graduate Diploma / Masters Degree** ปริญญาโท
-  - ระดับ 10 - **Doctoral Degree / Higher Doctorate** ปริญญาเอก
+- ในรายละเอียดทุกหลักสูตรจะมีบอกว่าหลักสูตรนี้ NFQ Level อะไร
+- การศึกษาที่เรียกว่า "Higher Education" หรืออุดมศึกษาในไอร์แลนด์ จะเริ่มตั้งแต่ระดับ 6
+- ระดับ 6 - **Advanced Certificate / Higher Certificate** เทียบเท่า ประกาศนียบัตรชั้นสูง (ปวส.) ของไทย
+- ระดับ 7 - **Ordinary Bachelor Degree** (โดยทั่วไปเรียน 3 ปี) เทียบเท่า ปริญญาตรีของไทย
+- ระดับ 8 - **Higher Diploma / Honour Bachelor Degree** (โดยทั่วไปเรียน 4 ปี) เทียบเท่า ปริญญาตรีของไทย
+- ระดับ 9 - **Post-Graduate Diploma / Masters Degree** ปริญญาโท
+- ระดับ 10 - **Doctoral Degree / Higher Doctorate** ปริญญาเอก
 - NFQ 10 ระดับของไอร์แลนด์ สามารถเทียบกับ
   [European Qualifications Framework (EQF) 8 ระดับ ของสหภาพยุโรป](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework) ได้ตามแผนภาพด้านล่างนี้
   ผู้จบการศึกษาจากระบบ NFQ/EQF (ประเทศในสหภาพยุโรป และอีก 11 ประเทศ
   รวมถึงนอร์เวย์ สวิตเซอร์แลนด์ และตุรกี)
   สามารถศึกษาต่อในระดับต่อไปในประเทศที่อยู่ภายใต้ NFQ/EQF เช่นกันได้ทันที
 
-  [![เทียบ NFQ กับ EQF](./img/nfq-eqf.png "เทียบ NFQ สีเขียว กับ EQF สีส้ม")](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework)
+[![เทียบ NFQ กับ EQF](./img/nfq-eqf.png "เทียบ NFQ สีเขียว กับ EQF สีส้ม")](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework)
 
 ## รายชื่อสถาบันอุดมศึกษา
 
 มหาวิทยาลัยทั้งหมดในไอร์แลนด์เป็นมหาวิทยาลัยรัฐ
 
 - [Atlantic Technological University](https://www.atu.ie/) (ในเมือง Galway-Mayo, Sligo และ Letterkenny)
-
 - [Dublin City University](https://www.dcu.ie/)
 - [Munster Technological University](https://www.mtu.ie/) (ในเมือง Cork และ Tralee)
-
 - [National University of Ireland](https://www.nui.ie/)
-  - [Maynooth University](https://www.maynoothuniversity.ie/)
-  - [University of Galway](https://www.universityofgalway.ie/)
-  - [University College Cork](https://www.ucc.ie/)
-  - [University College Dublin](https://www.ucd.ie/)
+    - [Maynooth University](https://www.maynoothuniversity.ie/)
+    - [University of Galway](https://www.universityofgalway.ie/)
+    - [University College Cork](https://www.ucc.ie/)
+    - [University College Dublin](https://www.ucd.ie/)
 - [South East Technological University](https://www.setu.ie/) (ในเมือง Carlow และ Waterford)
 - [Technological University Dublin](https://www.tudublin.ie/)
 - [Technological University of the Shannon: Midlands Midwest](https://tus.ie/) (ในเมือง Athlone และ Limerick)
@@ -86,7 +83,7 @@
 - **[Science Foundation Ireland](https://www.sfi.ie/)**
 - ทุนการศึกษา University College Dublin ร่วมกับ [มูลนิธิเทคโนโลยีสารสนเทศตามพระราชดำริสมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี](https://www.princess-it.org/scholarship/ucd/) (เฉพาะคนไทย)
 - **[CareersPortal Scholarship Explorer](https://careersportal.ie/scholarships/)**
-  - รวมทุนการศึกษา และส่วนลดค่าเล่าเรียน เน้นหลักสูตรวิชาชีพ
+    - รวมทุนการศึกษา และส่วนลดค่าเล่าเรียน เน้นหลักสูตรวิชาชีพ
 - ติดตามเว็บไซต์และสื่อสังคมของมหาวิทยาลัย คณะ ศูนย์วิจัย และอาจารย์ในสาขาวิชาต่างๆ
   ในมหาวิทยาลัย สำหรับข่าวสารทุนการศึกษา ทุนวิจัย และทุนวิจัยระยะสั้น ที่จะมีประกาศตลอดปี
 - สำหรับผู้มีใบอนุญาตพำนักประเภท Stamp 4, Stamp 5, หรือ Stamp 6
@@ -96,7 +93,7 @@
 ### ยุโรปและสหภาพยุโรป (รวมไอร์แลนด์ด้วย)
 
 - **[Study in Europe](https://education.ec.europa.eu/study-in-europe/planning-your-studies/scholarships-and-funding)**
-  - รวมทุนการศึกษา ทุนวิจัย และการสนับสนุนทางการเงินอื่นๆ จากหน่วยงานในสหภาพยุโรป
-  - เลือกหน้า **[Ireland](https://education.ec.europa.eu/study-in-europe/countries/ireland)**
+    - รวมทุนการศึกษา ทุนวิจัย และการสนับสนุนทางการเงินอื่นๆ จากหน่วยงานในสหภาพยุโรป
+    - เลือกหน้า **[Ireland](https://education.ec.europa.eu/study-in-europe/countries/ireland)**
 - **[EURAXESS ASEAN](https://euraxess.ec.europa.eu/worldwide/asean)**
-  - รวมทุนวิจัยที่เป็นความร่วมมือระหว่างสหภาพยุโรปและอาเซียน
+    - รวมทุนวิจัยที่เป็นความร่วมมือระหว่างสหภาพยุโรปและอาเซียน
