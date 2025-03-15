@@ -75,7 +75,7 @@
 
 ### ห้องสมุดต่างมหาวิทยาลัย
 
-- [บัตร Libray Link]([https://conul.ie/](https://conul.ie/librarylink-cooperative-access-scheme/)) (ชื่อเดิม ALCID)
+- [บัตร Libray Link](https://conul.ie/librarylink-cooperative-access-scheme/) (ชื่อเดิม ALCID)
   ใช้เข้าห้องสมุดมหาวิทยาลัยสมาชิกในไอร์แลนด์และในไอร์แลนด์เหนือได้ แต่ไม่สามารถยืมได้
   - ติดต่อทำบัตร Libray Link ได้ที่ห้องสมุดมหาวิทยาลัยที่ตัวเองสังกัด
 - [บัตร SCONUL Access](https://access.sconul.ac.uk/)
