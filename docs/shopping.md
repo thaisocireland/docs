@@ -1,5 +1,12 @@
-
 # ซื้อของ
+
+ปรับปรุงล่าสุด 16 มี.ค. 2025
+
+- บัตรนักศึกษา ใช้ลดราคาได้ทันทีกับร้านค้าหลายแห่ง ให้ลองสอบถามดู มักจะได้ส่วนลด 5-10%
+- [Student Leap Card](https://about.leapcard.ie/young-adult-and-student-card-launch) ใช้ลดราคาได้ทันที หรือใช้เพื่อสมัครสมาชิกเพื่อลดราคา ใช้ได้กับหลายร้านค้า เช่น Boots
+- [UNiDAYS](https://www.myunidays.com/IE/en-IE) เป็นบริการยืนยันว่ามีสถานะนักศึกษา
+  ใช้เพื่อรับส่วนลดในร้านค้าออนไลน์ ต้องใช้อีเมลของมหาวิทยาลัยในการยืนยันตัวตน ใช้ลดราคาได้หลายร้าน เช่น Acer, Adidas, Apple, Nike, NordVPN, JD Sports, Just Eat, Samsung, Urban Outfitters
+- ดูส่วนลดเพิ่มเติมได้ที่เว็บไซต์ของสหภาพนักศึกษาหรือของชมรม ตัวอย่างเช่นเว็บไซต์ของ [UCD Students’ Union](https://www.ucdsu.ie/student-deals) หรือ Instagram ของ [DU Southeast Asian Society](https://www.instagram.com/duseasgram/)
 
 ## ของกินของใช้ทั่วไป
 
@@ -52,3 +59,11 @@
   - ในดับลินมีหนาแน่นอยู่ย่าน Temple Bar บริเวณ Temple Bar Square มาจนถึง Dame St อีกย่านคือแถว Capel St
 - [Thriftify](https://www.thriftify.ie/) - เป็นแพลตฟอร์มที่รวมเอาเสื้อผ้าจากร้านการกุศลต่างๆ มาแสดงในที่เดียว
 - ร้านขายอุปกรณ์เดินเขาเดินป่า มีเสื้อกันหนาวและรองเท้ากันน้ำ
+
+## อุปกรณ์อิเล็กทรอนิกส์
+
+- เครื่องคอมพิวเตอร์ จอภาพ
+  - [Laptops Direct](https://www.laptopsdirect.ie/sale) มีเครื่อง refurbished
+    (เครื่องใช้แล้วและปรับปรุงสภาพใหม่) ราคาจะถูกลงไปได้ถึง 50% ลองเปรียบเทียบดู
+  - Apple Store มี [Education Store](https://www.apple.com/ie-edu/store) ราคานักศึกษ และ [Certified Refurbished](https://www.apple.com/ie/shop/refurbished) สำหรับเครื่องปรับสภาพใหม่
+ 
