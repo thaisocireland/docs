@@ -53,7 +53,7 @@
 
 ## เสื้อผ้า
 
-- ยี่ห้อ high street/fast fashion ทั่วไปน่าจะมีเกือบหมด - ไม่มี Uniqlo
+- ยี่ห้อ high street/fast fashion ทั่วไปน่าจะมีเกือบหมด (Uniqlo ไม่มีหน้าร้าน แต่มีร้านออนไลน์)
 - ในซูเปอร์มาร์เก็ตสาขาใหญ่ก็มีเสื้อผ้าขาย เช่น Dunnes Stores และ M&S มีแผนกเสื้อผ้า
 - ร้านเสื้อผ้ามือสอง (thrift shop)
   - ในดับลินมีหนาแน่นอยู่ย่าน Temple Bar บริเวณ Temple Bar Square มาจนถึง Dame St อีกย่านคือแถว Capel St
@@ -66,4 +66,3 @@
   - [Laptops Direct](https://www.laptopsdirect.ie/sale) มีเครื่อง refurbished
     (เครื่องใช้แล้วและปรับปรุงสภาพใหม่) ราคาจะถูกลงไปได้ถึง 50% ลองเปรียบเทียบดู
   - Apple Store มี [Education Store](https://www.apple.com/ie-edu/store) ราคานักศึกษ และ [Certified Refurbished](https://www.apple.com/ie/shop/refurbished) สำหรับเครื่องปรับสภาพใหม่
- 
