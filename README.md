@@ -1,16 +1,16 @@
 # Thai Students in Ireland - Study in Ireland information
 
-Thai-language information on Irish higher education for prospective students.
+Source code for https://thaisocireland.github.io/docs/
 
 ## Disclaimer
 
-This website is independently run by Thai students and alumni of Irish
-schools and universities.
+This repository and its corresponding website are independently run by
+Thai students and alumni of Irish schools and universities.
 We provide information based on our own experiences and research,
 while striving to link to official government and educational sources.
 
-Our content is not endorsed or supported by any government or educational
-institution.
+Our content is not endorsed or supported by any government, educational
+institution, or education agent.
 
 The information provided in this repository and on the associated website is
 intended for general informational purposes only and does not constitute legal,
